@@ -1,0 +1,34 @@
+.foto2{
+    position: relative;
+    width: auto;
+    height: auto;
+    margin-right: 0%;
+    
+}
+
+#para{
+    position: absolute;
+    color: white;
+    right: 10%;
+    top: 45%;
+    bottom: 25%;
+    
+}
+
+#foto{
+    opacity: 75;
+     background-color: rgb(128, 127, 127);
+}
+.card-border{
+    border-radius: 20px;
+    overflow: hidden;
+   
+     
+}
+
+
+#final{
+
+   background: linear-gradient(270deg, rgb(4, 4, 68) 0,rgb(4, 4, 26) 50%);
+     
+}
